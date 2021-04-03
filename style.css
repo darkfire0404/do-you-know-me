@@ -1,0 +1,29 @@
+body{
+    background-color: aqua;
+
+}
+h1{
+    font-size: 50px;
+}
+button{
+    width: 50px;
+    height: 50px;
+    background-color: aqua;
+}
+button:hover{
+    background-color: red;
+}
+a{
+    text-decoration: none;
+    background-color: aqua;
+    border: 2px solid black;
+    color: black;
+    width: 50px;
+    height: 50px;
+    font-size: 30px;
+    margin-left: 20px;
+}
+img{
+    width: 200px;
+    height: 200px;
+}
